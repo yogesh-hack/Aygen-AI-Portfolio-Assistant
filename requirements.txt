@@ -1,0 +1,11 @@
+fastapi==0.109.0
+uvicorn==0.27.0
+google-generativeai==0.3.2
+sentence-transformers==2.2.2
+gTTS==2.5.0
+aiohttp==3.9.1
+numpy==1.26.3
+pydantic==2.5.3
+python-dotenv==1.0.0
+torch==2.1.2
+gunicorn==21.2.0
